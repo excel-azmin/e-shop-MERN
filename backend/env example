@@ -1,0 +1,10 @@
+SERVER_PORT=3001
+MONGODB_ATLAS_URL=mongodb+srv://azmin:Azmin123@cluster0.noxko.mongodb.net/ecommerceDB
+DEFAULT_IMAGE_PATH=public/images/default.jpg
+JWT_ACTIVATION_KEY=1234567890
+SMTP_USERNAME=excel.azmin@gmail.com
+SMTP_PASSWORD=aclaymwkyneufvkk
+CLIENT_URL=http://localhost:3000
+
+
+#https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4PSfYE3y5U5LZHIlUKz83TzBYcCCPD-IvQ4TVw_WnfyzNj_p9gTOTNG6v1zHHfxTHsBykgJK1a2k30AunxfD2OMStm7YQ
